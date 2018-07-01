@@ -9,6 +9,7 @@ public class HelloRequest {
 		return header;
 	}
 
+	
 	public void setHeader(Header header) {
 		this.header = header;
 	}
